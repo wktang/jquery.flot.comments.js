@@ -1,0 +1,20 @@
+{
+  "name": "jquery.flot.comments.js",
+  "version": "1.0.0",
+  "description": "Null",
+  "main": "jquery.flot.comments.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wktang/jquery.flot.comments.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wktang/jquery.flot.comments.js/issues"
+  },
+  "homepage": "https://github.com/wktang/jquery.flot.comments.js#readme"
+}
